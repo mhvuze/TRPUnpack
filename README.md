@@ -5,4 +5,4 @@ C# tool for unpacking PSVita TROPHY.TRP files.
 Simply drag and drop the .TRP file on the application, or use `TRPUnpack <file>`.
 
 ## Credits
-Icon provided by Freepik [link](http://www.flaticon.com/free-icon/trophy_184636).
+Icon provided by [Freepik](http://www.flaticon.com/free-icon/trophy_184636).
