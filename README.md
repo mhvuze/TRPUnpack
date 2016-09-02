@@ -1,5 +1,5 @@
 # TRPUnpack
-C# tool for unpacking PSVita TROPHY.TRP files.
+C# tool for unpacking PSVita/PS3 TROPHY.TRP files.
 
 ## Usage
 Simply drag and drop the .TRP file on the application, or use `TRPUnpack <file>`.
